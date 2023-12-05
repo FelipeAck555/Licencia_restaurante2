@@ -1,0 +1,43 @@
+{
+  "components": [
+    {
+      "text": "# ¿Desea inscribir el codigo manualmente?",
+      "label": "Text view",
+      "type": "text",
+      "layout": {
+        "row": "Row_1epwlpr",
+        "columns": null
+      },
+      "id": "Field_12pb8tj"
+    },
+    {
+      "values": [
+        {
+          "label": "Si",
+          "value": "Si"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "label": "Seleccione una opcion",
+      "type": "select",
+      "layout": {
+        "row": "Row_1b7u6rm",
+        "columns": null
+      },
+      "id": "Field_0o0ghrc",
+      "key": "selec_dian"
+    }
+  ],
+  "type": "default",
+  "id": "form_dian",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.16.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.20.0",
+  "schemaVersion": 11
+}
